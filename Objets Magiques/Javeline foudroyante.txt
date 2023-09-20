@@ -1,0 +1,4 @@
+Javeline foudroyante
+
+Dégâts de foudre, permet d'invoquer un éclair surpuissant si lancé de dé conséquent. 
+Attention, peut aussi blesser les coéquipiers si dans la zone d'impact.

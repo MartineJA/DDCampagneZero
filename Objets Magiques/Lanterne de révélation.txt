@@ -1,0 +1,4 @@
+Lanterne de révélation
+
+Permet de savoir si quelqu'un ment ou pas, ou si un objet se cache dans une zone ou non
+Doit se recharger pour être utilisé.
