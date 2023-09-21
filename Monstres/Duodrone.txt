@@ -1,0 +1,16 @@
+Duodrone
+
+Drone bicéphale
+
+FOR
+11 (+0)
+DEX
+13 (+1)
+CON
+12 (+1)
+INT
+6 (-2)
+SAG
+10 (+0)
+CHA
+7 (-2)
