@@ -1,6 +1,7 @@
 Baguette de métamorphose
 
-Permet de métamorphoser une fois par jour max un coéquipier en un monstre au choix, pendant 5 minutes.
+Permet de métamorphoser une fois par jour max un coéquipier en un monstre au choix, pendant 5 minutes. Naaaan PENDANT 30 MINUTES!!
 
 Dégats: 8
 Poison: +1 
+ET LES DEGA PLUS 30 MOUHAHAHAHA
