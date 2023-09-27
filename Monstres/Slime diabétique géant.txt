@@ -1,0 +1,3 @@
+Slime géant qui transmet un diabète de type I s'il réussi à infliger 5 blessures à sa cible lors d'un combat. 
+Les effets du diabète durent 24 heures après l'attaque. 
+Le joueur ne peut plus s'alimenter. 
